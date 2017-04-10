@@ -26,3 +26,15 @@ In this project, we will tackle __Data Visualization__ in `R` using the beautifu
 
 
 When I first looked at this graph, I knew plotting the data was going to be easy. I see a scatter plot layered on a line. Easy, right? Well, kind of. In this project, we will try to get as close as we can to the actual output from _The Economist_ using the ggplot library. 
+
+
+
+## Inspiration and Documentation
+
+__The Economist__
+* How can you not be inspired by their graphs! 
+
+http://www.economist.com/blogs/graphicdetail
+
+__Harvard Workshop on `ggplot`__
+* Harvard put together a workshop that introduced students to `ggplot` in the most Harvard way possible--"reproduce this graph from _The Economist_ given these tools we will discuss in the workshop." Talk about throw them to the lions and come out alive. My first `ggplot` was attempting a scatterplot. They give excellent information here and the challenge was this same exact graph that we will replicate. Unfortunately, they did not give a solution so most of this project was me doing trial and error and a ton of Google searches. I am sure there are better and more efficient solutions to my code, but that is your challenge.
