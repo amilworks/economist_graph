@@ -19,16 +19,10 @@ In this project, we will tackle __Data Visualization__ in `R` using the beautifu
 
 
 
-
-
-
 ![Economist](https://cloud.githubusercontent.com/assets/22850980/24850224/0dedd2e8-1d84-11e7-88e6-4137b3f662fb.jpg)
 
 
 
 
 
-
-
-
-When I first looked at this graph, I knew plotting the data was going to be easy. I see a scatter plot layered on an $R^2$ line. 
+When I first looked at this graph, I knew plotting the data was going to be easy. I see a scatter plot layered on a line. Easy, right? Well, kind of. In this project, we will try to get as close as we can to the actual output from _The Economist_ using the ggplot library. 
