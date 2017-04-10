@@ -15,6 +15,11 @@ The problem is I cannot teach you how to ask fascinating questions about the dat
 ## Project Abstract
 
 In this project, we will tackle __Data Visualization__ in `R` using the beautiful package `ggplot`. In particular, we will try our best to replicate this graph created by _The Economist_. 
+
+
+
 ![Economist](https://cloud.githubusercontent.com/assets/22850980/24850224/0dedd2e8-1d84-11e7-88e6-4137b3f662fb.jpg)
+
+
 
 When I first looked at this graph, I knew plotting the data was going to be easy. I see a scatter plot layered on an $R^2$ line. 
